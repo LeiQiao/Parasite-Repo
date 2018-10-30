@@ -1,18 +1,18 @@
 # noinspection PyStatementEffect
 {
-    'name': 'jarvis_man_client',
+    'name': 'pegasus_client',
     'summary': '',
-    'description': 'Jarvis Man 客户端软件',
+    'description': '汇付 Pegasus 客户端工具',
 
     'author': '',
     'website': '',
     'source': {'git': 'git@172.31.13.131:jarvis/jfile.git', 'branch': 'master'},
 
-    'category': 'jarvis',
+    'category': 'tools',
     'version': '0.1',
 
-    'exports': ['JarvisManClient'],
+    'exports': ['Security'],
 
     # any plugin necessary for this one to work correctly
-    'depends': ['base', 'redis_client']
+    'depends': ['base']
 }
