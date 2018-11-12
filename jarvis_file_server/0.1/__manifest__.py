@@ -73,7 +73,7 @@
 
     # any plugin necessary for this one to work correctly
     'depends': [
-        'base_api_warpper',
+        'base_api_wrapper',
         'acm_config_manager',
         'jarvis_man_client',
         'oss_client',
