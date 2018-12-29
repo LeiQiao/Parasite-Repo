@@ -6,7 +6,7 @@
 
     'author': '',
     'website': '',
-    'source': {'git': 'git@172.31.13.131:jarvis/jfile.git', 'branch': 'master'},
+    'source': {'git': 'http://172.31.13.131:8088/jarvis/jfile.git', 'branch': 'master'},
 
     'category': 'jarvis',
     'version': '0.1',
