@@ -6,7 +6,7 @@
 
     'author': '',
     'website': '',
-    'source': {'git': 'http://172.31.13.131:8088/jarvis/jfile.git', 'branch': 'master'},
+    'source': {'git': 'git@git.chinapnr.com:parasite/jarvis/jfile.git', 'branch': 'master'},
 
     'category': 'tools',
     'version': '0.1',
